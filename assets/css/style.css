@@ -238,3 +238,69 @@
     text-decoration: none;
     color: #ffffff;
 }
+
+
+
+
+/* Css trang loggo */
+.wrapper_crumb {
+    height:24px;
+    background-color: #003478;
+    max-width: 1020px;
+}
+
+.wrapper_crumb span {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.wrapper_crumb_span{
+    margin-left: 40px;
+}
+
+.Wrapper_logo_back{
+    margin-top:50px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.logo_title{
+    margin-top: 30px;
+}
+
+.logo_list{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.logo_list li {
+    padding-top:10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.logo_list li:hover {
+    background-color: #ececec;
+    color:#1930B0;
+}
+
+.wrapper_logo_links{
+    margin-top:70px;
+}
+
+.logo_link_ftl{
+    list-style: none;
+    display: flex;
+    margin-: 0;
+}
+
+.logo_link_ftl li{
+    margin-left: 10px;
+    background-color: #003478;
+    padding:10px;
+}
+
+.logo_link_ftl a {
+    color: #ffffff;
+}
