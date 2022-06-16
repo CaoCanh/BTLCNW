@@ -304,3 +304,29 @@
 .logo_link_ftl a {
     color: #ffffff;
 }
+
+/* css introduce */
+.description{
+    font-size:20px;
+    margin-top: 30px;
+}
+
+.description p {
+    margin-top: 10px;
+}
+
+#introduce_h1 {
+    font-size:2rem;
+}
+
+
+/* projecct css */
+.description td{
+    border: 2px solid #333;
+}
+
+/* seminar css */
+
+.related-list{
+    list-style: none;
+}
