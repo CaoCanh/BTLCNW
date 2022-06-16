@@ -33,7 +33,7 @@
                             <li>|</li>
                             <li class="language">
                                 <span class="language-text"> Ngôn ngữ: &nbsp;&nbsp;&nbsp;&nbsp;</span>
-                                <a href="#" title="Tiếng Việt" class="ui-link-white lang-vi"><img src="/assets/images/icons/icon-lang-vi.png" alt="Tiếng Việt"></a>
+                                <a href="#" title="Tiếng Việt" class="ui-link-white lang-vi"><img src="./assets/images/icons/icon-lang-vi.png" alt="Tiếng Việt"></a>
                                 <a href="#" title="Tiếng Anh" class="ui-link-white lang-en"><img src="http://cse.tlu.edu.vn/cse/assets/images/icons/icon-lang-en.png" alt="Tiếng Anh"></a>
                             </li>
                             <form class="d-flex" role="search">
@@ -51,7 +51,7 @@
                 <div class="container" style="margin: 0 482px;margin-top:29px;">
                     <div class="header_logo">
                         <a href="#">
-                            <img src="/assets/images/icons/logo.png" alt="">
+                            <img src="./assets/images/icons/logo.png" alt="">
                         </a>
                     </div>
 
@@ -61,19 +61,19 @@
                                 <a href="">Trang chủ</a>
                             </li>
                             <li>
-                                <a href="/introduce.html">Giới thiệu</a>
+                                <a href="./introduce.php">Giới thiệu</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="/logo.html">Logo khoa CNTT</a></li>
-                                    <li><a href="">Lời chào mừng</a></li>
+                                    <li><a href="./logo.php">Logo khoa CNTT</a></li>
+                                    <li><a href="./greeting.php">Lời chào mừng</a></li>
                                     <li><a href="">Tổ chức</a></li>
                                     <li><a href="">Hợp tác liên kết</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="/reseach.html">Nghiên cứu khoa học</a>
+                                <a href="./reseach.php">Nghiên cứu khoa học</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="/project.html">Các đề tài dự án</a></li>
-                                    <li><a href="/semiar.html">Thông tin seminar</a></li>
+                                    <li><a href="./project.php">Các đề tài dự án</a></li>
+                                    <li><a href="./semiar.php">Thông tin seminar</a></li>
                                     <li><a href="">Công trình công bố</a></li>
                                     <li><a href="">Các phòng thí nghiệm</a></li>
                                     <li><a href="">ông trình công bố</a></li>
@@ -156,10 +156,10 @@
                                 </div>
                                 <div class="carousel-inner">
                                     <div class="carousel-item active" data-bs-interval="10000">
-                                        <img src="/assets/images/img/slideshow_1.jpg" style="height: 286px;" class="d-block w-100" alt="...">
+                                        <img src="./assets/images/img/slideshow_1.jpg" style="height: 286px;" class="d-block w-100" alt="...">
                                     </div>
                                     <div class="carousel-item" data-bs-interval="2000">
-                                        <img src="/assets/images/img/slideshow_2.jpg" style="height: 286px;" class="d-block w-100" alt="...">
+                                        <img src="./assets/images/img/slideshow_2.jpg" style="height: 286px;" class="d-block w-100" alt="...">
                                     </div>
                                     <div class="carousel-item">
                                         <img src="./assets/images/img/slideshow_3.jpg" style="height: 286px;" class="d-block w-100" alt="...">
@@ -177,27 +177,27 @@
                             <div class="row" style="margin-top:20px">
                                 <div class="col-4">
                                     <a href="">
-                                        <img src="/assets/images/img/wrapper_1.jpg" style="max-width:210px; height:174px" alt="">
+                                        <img src="./assets/images/img/wrapper_1.jpg" style="max-width:210px; height:174px" alt="">
                                         <h5 class="wrapper_content">Lời chào mừng</h5>
                                     </a>
                                     <a href="">
-                                        <img src="/assets/images/img/wrapper_3.jpg" style="max-width:210px; height:174px" alt="">
+                                        <img src="./assets/images/img/wrapper_3.jpg" style="max-width:210px; height:174px" alt="">
                                         <h5 class="wrapper_content">Nghiên cứu khoa học</h5>
                                     </a>
                                 </div>
                                 <div class="col-4" style="margin-left:-20px">
                                     <a href="">
-                                        <img src="/assets/images/img/wrapper_2.jpg" style="max-width:210px; height:174px" alt="">
+                                        <img src="./assets/images/img/slideshow_2.jpg" style="max-width:210px; height:174px" alt="">
                                         <h5 class="wrapper_content">Giảng viên</h5>
                                     </a>
                                     <a href="">
-                                        <img src="/assets/images/img/wrapper_4.jpg" style="width:210px; height:174px" alt="">
+                                        <img src="./assets/images/img/slideshow_4.jpg" style="width:210px; height:174px" alt="">
                                         <h5 class="wrapper_content">Đào tạo</h5>
                                     </a>
                                 </div>
                                 <div class="col-4" style="margin-left:-20px">
                                     <a href="">
-                                        <img src="/assets/images/img/wrapper_5.jpg" style="max-width:272px; height:390px" alt="">
+                                        <img src="./assets/images/img/wrapper_5.jpg" style="max-width:272px; height:390px" alt="">
                                         <h5 class="wrapper_content">Ảnh khoa CNTT</h5>
                                     </a>
                                 </div>
@@ -219,10 +219,10 @@
                 <div class="foodter_top">
                     <div class="foodter_menu">
                         <ul class="foodter_list">
-                            <li><a href="">Giới thiệu</a></li>
-                            <li><a href="/logo.html">Logo khoa CNTT</a></li>
-                            <li><a href="">Lời chào mừng</a></li>
-                            <li><a href="">Tổ chức</a></li>
+                            <li><a href="./introduce.php">Giới thiệu</a></li>
+                            <li><a href="./logo.php">Logo khoa CNTT</a></li>
+                            <li><a href="./greeting.php">Lời chào mừng</a></li>
+                            <li><a href="./institute.php">Tổ chức</a></li>
                             <li><a href="">Hợp tác liên kết</a></li>
                         </ul>
                     </div>
@@ -237,7 +237,7 @@
                     </div>
                     <div class="foodter_menu">
                         <ul class="foodter_list">
-                            <li><a href="">Nghiên cứu khoa học</a></li>
+                            <li><a href="./reseach.php">Nghiên cứu khoa học</a></li>
                             <li><a href="">Thông tin semiar</a></li>
                             <li><a href="">Các đề tài dự án</a></li>
                             <li><a href="">Công trình công bố</a></li>

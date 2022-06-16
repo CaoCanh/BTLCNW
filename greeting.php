@@ -33,7 +33,7 @@
                             <li>|</li>
                             <li class="language">
                                 <span class="language-text"> Ngôn ngữ: &nbsp;&nbsp;&nbsp;&nbsp;</span>
-                                <a href="#" title="Tiếng Việt" class="ui-link-white lang-vi"><img src="/assets/images/icons/icon-lang-vi.png" alt="Tiếng Việt"></a>
+                                <a href="#" title="Tiếng Việt" class="ui-link-white lang-vi"><img src="./assets/images/icons/icon-lang-vi.png" alt="Tiếng Việt"></a>
                                 <a href="#" title="Tiếng Anh" class="ui-link-white lang-en"><img src="http://cse.tlu.edu.vn/cse/assets/images/icons/icon-lang-en.png" alt="Tiếng Anh"></a>
                             </li>
                             <form class="d-flex" role="search">
@@ -58,22 +58,22 @@
                     <div class="header_menu">
                         <ul class="header_menu_list">
                             <li>
-                                <a href="/index.html">Trang chủ</a>
+                                <a href="./index.php">Trang chủ</a>
                             </li>
                             <li>
-                                <a href="">Giới thiệu</a>
+                                <a href="./introduce.php">Giới thiệu</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="logo.html">Logo khoa CNTT</a></li>
-                                    <li><a href="/greeting.html">Lời chào mừng</a></li>
-                                    <li><a href="">Tổ chức</a></li>
+                                    <li><a href="./logo.php">Logo khoa CNTT</a></li>
+                                    <li><a href="./greeting.php">Lời chào mừng</a></li>
+                                    <li><a href="./institute.php">Tổ chức</a></li>
                                     <li><a href="">Hợp tác liên kết</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="">Nghiên cứu khoa học</a>
+                                <a href="./reseach.php">Nghiên cứu khoa học</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="">Các đề tài dự án</a></li>
-                                    <li><a href="">Thông tin seminar</a></li>
+                                    <li><a href="./project.php">Các đề tài dự án</a></li>
+                                    <li><a href="./semiar.php">Thông tin seminar</a></li>
                                     <li><a href="">Công trình công bố</a></li>
                                     <li><a href="">Các phòng thí nghiệm</a></li>
                                     <li><a href="">ông trình công bố</a></li>
@@ -149,72 +149,106 @@
                     <div class="wrapper_crumb">
                         <span class="wrapper_crumb_span">Giới thiệu</span>
                         <img src="http://cse.tlu.edu.vn/Portals/_default/Skins/Xcillion/Images/breadcrumb-arrow.png" alt="">
-                        <span>Logo của khoa</span>
+                        <span>Lời chào mừng</span>
+                    </div>
+                    <div style="max-width:1020px; margin-top:20px;" id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active" data-bs-interval="10000">
+                                <img src="./assets/images/img/slideshow_1.jpg" style="height: 316px;" class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item" data-bs-interval="2000">
+                                <img src="./assets/images/img/slideshow_2.jpg" style="height: 316px; " class="d-block w-100" alt="...">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="./assets/images/img/slideshow_3.jpg" style="height: 316px;" class="d-block w-100" alt="...">
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
                     <div class="row" style="min-height:550px;">
                         <div class="col-7">
                             <div>
-                                <h1 id="introduce_h1" style="color:#333; margin-top:30px;">Ban chủ nhiệm khoa Công nghệ thông tin</h1>
+                                <h1 style="color:#333; margin-top:30px;">Lời chào mừng</h1>
                                 <div class="description">
-                                    <p><strong>Trưởng khoa: PGS. TS.&nbsp;<a href="http://cse.tlu.edu.vn/B%E1%BB%99-m%C3%B4n-Trung-t%C3%A2m/C%C3%B4ng-ngh%E1%BB%87-ph%E1%BA%A7m-m%E1%BB%81m/%C4%90%E1%BB%99i-ng%C5%A9-gi%E1%BA%A3ng-vi%C3%AAn-CNPM/userid/4/nguyen-thanh-tung" target="_blank">Nguyễn Thanh Tùng</a></strong></p>
+                                    <p style="text-align: justify;"><span>Xin chào các cô giáo, thầy giáo, anh chị và các bạn ghé thăm trang web của Khoa CNTT!</span></p>
                                 
-                                    <p>Phòng làm việc: P305 Tầng 3 nhà C1</p>
+                                    <p style="text-align: justify;"><span>Năm 2001, lãnh đạo Bộ Nông nghiệp &amp; PTNT, lãnh đạo trường Đại học Thủy lợi khi đó đã nhận ra xu hướng và cơ hội của ngành Công nghệ thông tin (CNTT) trong tương lai, đồng thời cũng do nhu cầu bức thiết về đội ngũ kỹ sư công nghệ thông tin trong ngành và toàn xã hội, khoa CNTT được thành lập ngày 19/11/2001 từ việc sáp nhập Trung tâm tin học và Bộ môn Toán học của trường.&nbsp;<br>
+                                    Kể từ khi thành lập, Khoa CNTT đã phát triển không ngừng. Bước trưởng thành quan trọng nhất được thể hiện qua sự đổi mới, kiện toàn chương trình đào tạo. Bắt đầu từ năm 2007, Khoa đã tập trung thực hiện &nbsp;việc chuyển đổi toàn bộ chương trình, giáo trình đào tạo, thiết kế theo cùng ngành của trường ĐH Michigan- Hoa kỳ. Riêng các môn Toán được thiết kế dựa vào chương trình đào tạo của học viện Kỹ thuật MIT - Hoa Kỳ. Từ năm 2015, Khoa tạo bước ngoặt cả về nghiên cứu,&nbsp;đào tạo, xây dựng cơ sở vật chất và phát triển đội ngũ.&nbsp;Khoa mở rộng quy mô tuyển sinh cho&nbsp;cả đại học và sau đại học trên 450 chỉ tiêu mỗi năm, với những điểm nhấn quan trọng sau:</span></p>
                                     
-                                    <p>Điện thoại: +84-4-38521442</p>
+                                    <p style="text-align: justify;"><span><em><strong>Về đội ngũ</strong></em>, Khoa có 60 giảng viên trực tiếp tham gia giảng dạy, trong đó có 20 Tiến sỹ và 12 nghiên cứu sinh với&nbsp;năng lực công bố quốc tế tốt.&nbsp;Phần lớn các Tiến sỹ của Khoa đều tu nghiệp tại nước ngoài có nền khoa học tiên tiến về CNTT, các giảng viên còn lại của Khoa đều có trình độ Thạc sỹ.</span></p>
                                     
-                                    <p>Email: tungnt@tlu.edu.vn</p>
+                                    <p style="text-align: justify;"><span><em><strong>Về đào tạo</strong></em>, Khoa có những thay đổi lớn trong thời gian qua về quy mô, chương trình đào tạo có tầm nhìn và đáp ứng yêu cầu thị trường việc làm trong và ngoài nước. Hiện Khoa có 4&nbsp;ngành đào tạo bậc đại học là Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm, Trí tuệ nhân tạo và Khoa học dữ liệu;&nbsp;một chuyên ngành bậc sau đại học là Công nghệ thông tin. Khoa luôn cập nhật sách và giáo trình mới nhất, đang được nhiều trường đại học uy tín trên thế giới sử dụng, các bài giảng đều cung cấp trực tuyến cho sinh viên. Các chương trình do công ty Samsung toàn cầu, FPT software đầu tư giúp Khoa đào tạo những sinh viên khá có cơ hội việc làm khi còn chưa tốt nghiệp.</span></p>
                                     
-                                    <p><strong>Phó Trưởng khoa: PGS. TS. Nguyễn Hữu Quỳnh</strong></p>
+                                    <p style="text-align: justify;"><span><em><strong>Về NCKH và hợp tác quốc tế</strong></em>, Khoa đạt được nhiều thành tích cao, các thầy cô đã công bố&nbsp;trên&nbsp;160 bài báo khoa học,&nbsp;trong đó chủ yếu là công bố quốc tế và&nbsp;có 47&nbsp;bài thuộc danh mục SCI/SCIE. Các thầy cô trong Khoa chủ nhiệm và tham gia trên 10 đề tài cấp nhà nước và hàng chục đề tài nghiên cứu khoa học cấp Bộ. Khoa có những hợp tác quốc tế và giao lưu khoa học bền vững với các trường đại học uy tín của Mỹ (Delta University, Arkansas&nbsp;<span style="text-align: justify;">University,&nbsp;Colorado State University</span>), Pháp (Paris 6, IRD, UMMISCO), Trung Quốc (ĐH Thâm Quyến, Viện công nghệ tiên tiến Thâm Quyến, ĐH Khoa học và công nghệ phương Nam), Nhật (JAIST, Nara Women's University), Úc (Griffith University,&nbsp;Deakin University, Monash University) theo các chương trình trao đổi hợp tác nghiên cứu, trao đổi giáo viên và sinh viên.<br>
+                                    Mục tiêu của chúng tôi là một tổ chức đào tạo CNTT tầm khu vực. Nhìn về phía trước, Khoa CNTT sẽ tiếp tục là nơi đào tạo uy tín với nền tảng cốt lõi về CNTT, hướng chuyên sâu về khoa học dữ liệu, trí tuệ nhân tạo. Chúng tôi tin tưởng rằng các sinh viên và giảng viên của chúng tôi sẽ là những yếu tố chính của sự thay đổi và giải quyết vấn đề trong <span style="text-align: justify;">thế giới&nbsp;</span>hiện đại, &nbsp;luôn luôn mở và luôn luôn kết nối này.<br>
+                                    Kính mời các quý vị truy cập và khám phá trang web của Khoa chúng tôi, tìm hiểu thêm về các chương trình đào tạo đại học và sau đại học của Khoa, tìm hiểu về các hoạt động nghiên cứu và thành tựu của chúng tôi, tra cứu và xem thông tin giảng viên, sinh viên, và khám phá những kinh nghiệm phong phú của Khoa CNTT với chúng tôi.</span></p>
                                     
-                                    <p>Phòng làm việc: P204&nbsp;Tầng 2 nhà C5</p>
-                                    
-                                    <p><strong>Phó Trưởng khoa: TS. Tạ Quang Chiểu</strong></p>
-                                    
-                                    <p>Phòng làm việc: P203 Tầng 2 nhà C5</p>
-                                    
-                                    <p><strong>Trợ lý khoa: KS. Nguyễn Khánh Linh</strong></p>
-                                    
-                                    <p>Phòng làm việc: P204 Tầng 2 nhà C1</p>
-                                    
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td style="border-style:none;"><span>&nbsp;<img alt="" src="./assets/images/img/truong-khoa.jpg" style="height: 302px; width: 350px; text-align: justify;" title=""></span></td>
+                                            </tr>
+                                            <tr>
+                                            <td style="border-style:none;">
+                                                <p style="text-align: justify;"><span>Trưởng Khoa Công nghệ thông tin</span></p>
+                                            </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="border-style:none;"><span style="font-size:larger;"><span style="color:#28166F;">PGS.&nbsp;</span><a href="http://cse.tlu.edu.vn/giang-vien/userid/31/nguyen-thanh-tung-ts" target="_blank"><span style="color:#28166F;"><span style="text-align: justify;">TS. </span>&nbsp;<span style="text-align: justify;">Nguyễn Thanh Tùng</span></span></a></span></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                
                                     <p>&nbsp;</p>
-                                    
+                                
+                                    <p style="text-align: justify;">&nbsp;</p>
+                                
                                     <p>&nbsp;</p>
                                         
                                 </div>
                             </div>
                             <div class="Wrapper_logo_back">
                                 <i class="bi bi-tag-fill"></i>
-                                <a href="" style="text-decoration: underline;">Trở về đầu trang</a>
+                                <a href="./index.php" style="text-decoration: underline;">Trở về đầu trang</a>
                             </div>
                             <div class="wrapper_logo_links">
-                                <ul class="logo_link_ftl">
-                                    <li><a href="">
-                                        <i class="bi bi-facebook"></i>
-                                        <span>Facebook</span>
-                                    </a></li>
-                                    <li><a href="">
-                                        <i class="bi bi-twitter"></i>
-                                        <span>Twitter</span>
-                                    </a></li>
-                                    <li><a href="">
-                                        <i class="bi bi-hand-thumbs-up"></i>
-                                        <span>Likedln</span>
-                                    </a></li>
-                                </ul>
-                            </div>
-                            <div class="introduce_img">
-                                <img src="/assets/images/img/introduce.jpg" alt="">
+                            <ul class="logo_link_ftl">
+                                <li><a href="">
+                                    <i class="bi bi-facebook"></i>
+                                    <span>Facebook</span>
+                                </a></li>
+                                <li><a href="">
+                                    <i class="bi bi-twitter"></i>
+                                    <span>Twitter</span>
+                                </a></li>
+                                <li><a href="">
+                                    <i class="bi bi-hand-thumbs-up"></i>
+                                    <span>Likedln</span>
+                                </a></li>
+                            </ul>
                             </div>
                             
                         </div>
                         <div class="col-2">
                             <div class="logo_title">
-                                <a style="font-size:2rem;" href="">Giới thiệu</a>
+                                <a style="font-size:2rem;" href="./introduce.php">Giới thiệu</a>
                             </div>
                             <ul class="logo_list">
-                                <li><a href="">Logo Khoa CNTT</a></li>
-                                <li><a href="">Lời chào mừng</a></li>
-                                <li><a href="">Tổ chức</a></li>
+                                <li><a href="./logo.php">Logo Khoa CNTT</a></li>
+                                <li><a href="./greeting.php">Lời chào mừng</a></li>
+                                <li><a href="./institute.php">Tổ chức</a></li>
                                 <li><a href="">Hợp tác liên kết</a></li>
                             </ul>
                         </div>
@@ -228,10 +262,10 @@
                 <div class="foodter_top">
                     <div class="foodter_menu">
                         <ul class="foodter_list">
-                            <li><a href="">Giới thiệu</a></li>
-                            <li><a href="">Logo khoa CNTT</a></li>
-                            <li><a href="">Lời chào mừng</a></li>
-                            <li><a href="">Tổ chức</a></li>
+                            <li><a href="./introduce.php">Giới thiệu</a></li>
+                            <li><a href="./logo.php">Logo khoa CNTT</a></li>
+                            <li><a href="./greeting.php">Lời chào mừng</a></li>
+                            <li><a href="./institute.php">Tổ chức</a></li>
                             <li><a href="">Hợp tác liên kết</a></li>
                         </ul>
                     </div>

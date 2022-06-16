@@ -51,29 +51,29 @@
                 <div class="container" style="margin: 0 482px; margin-top:29px;" >
                     <div class="header_logo">
                         <a href="#">
-                            <img src="/assets/images/icons/logo.png" alt="">
+                            <img src="./assets/images/icons/logo.png" alt="">
                         </a>
                     </div>
 
                     <div class="header_menu">
                         <ul class="header_menu_list">
                             <li>
-                                <a href="/index.html">Trang chủ</a>
+                                <a href="./index.html">Trang chủ</a>
                             </li>
                             <li>
-                                <a href="/introduce.html">Giới thiệu</a>
+                                <a href="./introduce.html">Giới thiệu</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="">Logo khoa CNTT</a></li>
-                                    <li><a href="">Lời chào mừng</a></li>
-                                    <li><a href="">Tổ chức</a></li>
+                                    <li><a href="./logo.php">Logo khoa CNTT</a></li>
+                                    <li><a href="./greeting.php">Lời chào mừng</a></li>
+                                    <li><a href="./institute.php">Tổ chức</a></li>
                                     <li><a href="">Hợp tác liên kết</a></li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="">Nghiên cứu khoa học</a>
+                                <a href="./reseach.php">Nghiên cứu khoa học</a>
                                 <ul class="menu_list_child">
-                                    <li><a href="">Các đề tài dự án</a></li>
-                                    <li><a href="">Thông tin seminar</a></li>
+                                    <li><a href="./project.php">Các đề tài dự án</a></li>
+                                    <li><a href="./semiar.php">Thông tin seminar</a></li>
                                     <li><a href="">Công trình công bố</a></li>
                                     <li><a href="">Các phòng thí nghiệm</a></li>
                                     <li><a href="">ông trình công bố</a></li>
@@ -165,7 +165,7 @@
                                     <div style="font-size:18px;" class="description">
                                         <p>&nbsp;</p>
 
-                                        <p><span style="font-family:times new roman;"><img alt="" src="/assets/images/img/NguyenThanhTung.jpg" style="width: 300px; height: 200px; float: left;"></span></p>
+                                        <p><span style="font-family:times new roman;"><img alt="" src="./assets/images/img/NguyenThanhTung.jpg" style="width: 300px; height: 200px; float: left;"></span></p>
 
                                         <p>&nbsp;</p>
 
@@ -351,7 +351,7 @@
                             </div>
                             <div class="Wrapper_logo_back">
                                 <i class="bi bi-tag-fill"></i>
-                                <a href="" style="text-decoration: underline;">Trở về đầu trang</a>
+                                <a href="./index.php" style="text-decoration: underline;">Trở về đầu trang</a>
                             </div>
                             <div class="wrapper_logo_links">
                             <ul class="logo_link_ftl">
