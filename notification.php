@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sinh viên</title>
+    <title>Thông Báo</title>
     <link rel="stylesheet" href="./assets/css/style.css">
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" 
@@ -148,19 +148,24 @@
         <div class="wrapper">
                 <div class="container" style="margin: 0 482px;">
                     <div class="row">
-                                  
-                    <div class="cointainer-fluid mt-2 ">
+                        
+                        
+                        <div class="cointainer-fluid mt-2 ">
                             <div class="row a">
                                 <div class="col-md-6">
                                      <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive" style="height: 107px; width: 142px; src=" src="imgg/tuyensinh1.png"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px; ">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                        Danh sách cố vấn học tập 2021-2022
+                                                        Triển khai đánh giá kết quả rèn luyện học kỳ 2 và toàn khóa đối với sinh viên chính quy 2022
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -176,13 +181,17 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive" style="height: 107px; width: 142px;"src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                        Danh sách cố vấn học tập 2020-2021
+                                                        Thông Báo về việc thu học phí 2021-2022 với sinh viê chính quy
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -198,13 +207,17 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                    Các biểu mẫu,quy định dành cho Học viên cao học
+                                                    Kế hoạch tổ chức Tọa đàm hướng nghiệp "Sinh viên TLU - bứt phá thành công
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -220,13 +233,17 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/tuyensinh1.png"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                        Danh sách cố vấn học tập 2019-2020
+                                                        Kế hoạch tổ chức gặp mặt và đối thoại với sinh viên năm học 2021 – 2022
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -242,13 +259,17 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                        Các mẫu sinh viên cần biết khi làm thực tập tốt nghiệp
+                                                        Chương trình đào tạo kỹ sư AI Vingroup
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -264,13 +285,18 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
-                                                        Danh sách cố vấn học tập 2018-2019
+                                                        Kế hoạch tổ chức cuộc thi Đại sứ văn hóa đọc 2022
+                                                      
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -286,14 +312,18 @@
 
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
                                         </div>
 
                                         <div class="col-sm-9">
                                              <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
                                                     <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
                                                         
-                                                        Tài liệu sinh viên cần biết
+                                                        Kế hoạch tổ chức Lễ tốt nghiệp, trao bằng Tiến sĩ, Thạc sĩ, Kỹ sư, Cử nhân đợt 1 năm học 2021-2022
                                                     </a>
                                             </h3>
                                             <p class="time-post"></p>
@@ -307,7 +337,31 @@
                                         </div>
                                     </div>
 
-                                    
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    SAMSUNG VIỆT NAM – CHƯƠNG TRÌNH THỰC TẬP SINH 2022 CHÍNH THỨC MỞ ĐƯỜNG LINK ĐĂNG KÝ
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
 
                                     
                                 </div>
@@ -315,35 +369,47 @@
                                 <div class="col-md-6">
                                     <div class="tlu-menu">
                                                 <p style="font-size: 24px; line-height: 2; font-family: Calibri;">
-                                                    <a id="dnn_ctr823_ViewCmsMenu_ctl00_hpl" href="https://cse.tlu.edu.vn/tin-thong-bao">Sinh viên</a>
+                                                    <a id="dnn_ctr823_ViewCmsMenu_ctl00_hpl" href="https://cse.tlu.edu.vn/tin-thong-bao">Thông báo</a>
                                                 </p>
                                         <div class="column-2">
 		                                    <ul>
-                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Tài liệu sinh viên</a></li>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">TB Đào tạo</a></li>
                                                 
 			                                </ul>
 
                                             <ul>
-                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Tổ tư vấn học tập</a></li>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Nghiên Cứu Khoa Học</a></li>
                                                 
 			                                </ul>
 
                                             <ul>
-                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Biểu mẫu ĐATN</a></li>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Tuyển dụng</a></li>
                                                 
 			                                </ul>
 
                                             <ul>
-                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Luận văn tốt nghiệp</a></li>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Học Bổng</a></li>
                                                 
 			                                </ul>
 
+                                            <ul>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Thông báo khác</a></li>
+                                                
+			                                </ul>
+
+                                           
+		                                         
+                
+                
         
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                                
+                                
+                           
                     </div>
                 </div>
 

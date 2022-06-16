@@ -10,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" 
     rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="css/admissions.css">
+    <link rel="stylesheet" href="csss/admissions.css">
 </head>
 <body>
     <div class="container-full">
@@ -177,64 +177,246 @@
                             </div>
                             
                         </div>
-                        <div class="main">
-                            <h1> Tuyển Sinh</h1>
+                        <div class="cointainer-fluid mt-2 ">
+                            <div class="row a">
+                                <div class="col-md-6">
+                                     <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
                                 
-                                 <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive" style="height: 107px; width: 142px; src=" src="imgg/tuyensinh1.png"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px; ">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                        Thông tin tuyển sinh đại học chính quy 2022
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive" style="height: 107px; width: 142px;"src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                        Chương trình tuyển dụng đặc biệt
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/CSElogo.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    Thông báo tuyển sinh đại học hình thức vừa làm vừa học 2022
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/tuyensinh1.png"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                        Trần Thị Ngọc Lan: Ngành kỹ thuật không chỉ dành cho nam giới
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                        Thông báo ngưỡng đảm bảo chất lượng đầu vào 2021
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/tuyensinh3.png"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    Thông báo điều chỉnh thời gian xác nhận nhập học theo phương thức xét tuyển thẳng, xét tuyển học bạ đợt 1 năm 2021
+                                                      
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                        
+                                                    Trường Đại học Thủy lợi công bố điểm chuẩn học bạ năm 2021, cao nhất 25,
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <figure class="figure">
+                                
+                                                <a href="#"><img id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_imgAvata_0" class="img-responsive"style="height: 107px; width: 142px;" src="imgg/thongbao234.jpg"></a>
+                                
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-sm-9">
+                                             <h3 class="related-title" style= "font-size:24px; margin-left: 40px;">
+                                                    <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    Trường Đại học Thủy lợi thông báo điểm chuẩn trúng tuyển theo phương thức dựa vào kết quả học bạ THPT
+                                                    </a>
+                                            </h3>
+                                            <p class="time-post"></p>
+                                            <p><span id="dnn_ctr620_ViewCMSView_ctl00_grNewsByCat_sumLabel_0" class="ChannelTeaserDesc"></span></p>
+                                
+                                            <p class="text-right font-16px" style="margin-left: 375px;">
+                                                <a href="https://cse.tlu.edu.vn/tuyen-sinh-cse/thong-tin-tuyen-sinh-dai-hoc-chinh-quy-nam-2022-406">
+                                                    <i class="fa fa-angle-right"></i> <em>Xem chi tiết</em>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    
                                 </div>
 
-                                <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
-                                </div>
+                                <div class="col-md-6">
+                                    <div class="tlu-menu">
+                                                <p style="font-size: 24px; line-height: 2; font-family: Calibri;">
+                                                    <a id="dnn_ctr823_ViewCmsMenu_ctl00_hpl" href="https://cse.tlu.edu.vn/tin-thong-bao">Tuyển sinh</a>
+                                                </p>
+                                        <div class="column-2">
+		                                    <ul>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Nhóm ngành CNTT</a></li>
+                                                
+			                                </ul>
 
-                                <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
-                                </div>
+                                            <ul>
+                                                <li><a id="dnn_ctr823_ViewCmsMenu_ctl00_rptMn0_hpl_0" href="https://cse.tlu.edu.vn/thong-bao-sinh-vien">Thông báo khác</a></li>
+                                                
+			                                </ul>
 
-                                <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
+                                           
+		                                         
+                
+                
+        
+                                        </div>
+                                    </div>
                                 </div>
-
-                                <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
-                                </div>
-
-                                <div class="row">
-                                    <div class="col-3 one"> <img alt="" class="left"
-                                    src="img/tuyensinh1.png"></div>
-                                    <div class="col-9 tow" >
-                                    <h2>
-                                        Thông tin tuyển sinh cho đại học chính quy 2022                
-                                    </h2> </div>
-                                </div>
-
-                        </div>    
                     </div>
                 </div>
 

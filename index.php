@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="navtop">
-                <div class="container" style="margin: 0 482px;margin-top:29px;">
+                <div class="container" style="margin: 0 482px;">
                     <div class="header_logo">
                         <a href="#">
                             <img src="./assets/images/icons/logo.png" alt="">
@@ -84,11 +84,11 @@
                                 <a href="">Đào tạo</a>
                                 <ul class="menu_list_child">
                                     <li><a href="">Đào tạo đại học</a></li>
-                                    <li><a href="">Đào tạo sau đại học</a></li>
-                                    <li><a href="">Mô tả chương trình đào tạo</a></li>
-                                    <li><a href="">Định hướng nghề</a></li>
-                                    <li><a href="">Chuẩn đầu ra</a></li>
-                                    <li><a href="">Đề cương môn học</a></li>
+                                    <li><a href=""></a>Đào tạo sau đại học</li>
+                                    <li><a href=""></a>Mô tả chương trình đào tạo</li>
+                                    <li><a href=""></a>Định hướng nghề</li>
+                                    <li><a href=""></a>Chuẩn đầu ra</li>
+                                    <li><a href=""></a>Đề cương môn học</li>
                                 </ul>
                             </li>
                             <li>
@@ -121,7 +121,7 @@
                                 <a href="">Tin tức</a>
                                 <ul class="menu_list_child">
                                     <li><a href="">Sự kiện</a></li>
-                                    <li><a href="">CSE trên báo</a></li>
+                                    <li><a href=""></a>CSE trên báo</li>
                                 </ul>
                             </li>
                             <li>
@@ -132,7 +132,7 @@
                                     <li><a href="">Nghiên cứu khoa học</a></li>
                                     <li><a href="">Tuyển dụng</a></li>
                                     <li><a href="">Học bổng</a></li>
-                                    <li><a href="">Thông báo khác</a></li>
+                                    <li><a href=""></a>Thông báo khác</li>
                                 </ul>
                             </li>
                             <li id=" menu_list_contac">
@@ -219,10 +219,17 @@
                 <div class="foodter_top">
                     <div class="foodter_menu">
                         <ul class="foodter_list">
+<<<<<<< HEAD:index.php
                             <li><a href="./introduce.php">Giới thiệu</a></li>
                             <li><a href="./logo.php">Logo khoa CNTT</a></li>
                             <li><a href="./greeting.php">Lời chào mừng</a></li>
                             <li><a href="./institute.php">Tổ chức</a></li>
+=======
+                            <li><a href="">Giới thiệu</a></li>
+                            <li><a href="">Logo khoa CNTT</a></li>
+                            <li><a href="">Lời chào mừng</a></li>
+                            <li><a href="">Tổ chức</a></li>
+>>>>>>> f382faab457fc86e2e035c65f6508e0ac19198e8:index.html
                             <li><a href="">Hợp tác liên kết</a></li>
                         </ul>
                     </div>
